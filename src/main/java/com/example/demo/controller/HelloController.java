@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello,First Commit";
+        return "Hello,Second Commit";
     }
 }
